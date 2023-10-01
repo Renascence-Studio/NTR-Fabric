@@ -1,0 +1,15 @@
+// 1.20.1	2023-10-01T20:02:45.9914679	Nether Transition Remains/Model Definitions
+ef77bcecf15475fff47b8bb5b0c3fc33fcdd41be assets\ntr\models\item\transmissite_dust.json
+e5be04aeeb05e216910961e10955f2f98e713a0d assets\ntr\models\item\transmissite_sword.json
+9513f44f3ba66db585f7d1fea2664f78010544c0 assets\ntr\models\item\activation_scepter.json
+042be8a29bed87ef67d78d267555787854bfd437 assets\ntr\models\item\transmissite_pickaxe.json
+c7b701f982a83da769849390159ed0f8ca2e8661 assets\ntr\models\item\transmissite_shovel.json
+d5f7f6bb9a32740594390cd41606a1976ee3e2ef assets\ntr\models\block\sanguinite_bricks.json
+b98fc8921efd4d19504a2ff43fe2cce0bcf62d27 assets\ntr\models\item\transmissite_ingot.json
+19ec0e7b5831072914c8c317b728459081a08843 assets\ntr\models\item\transmissite_axe.json
+dce4f34d274ae4389203012ed57bfe82d8cbc716 assets\ntr\models\item\transmissite_hoe.json
+0f8e9037f7f9404e48a3815b86bb4d368334a90b assets\ntr\models\item\sanguinite_bricks.json
+1bcd1eaee400997b0ce4227d1320435aab994256 assets\ntr\blockstates\sanguinite_bricks.json
+429a2d6c0537201b3c5a3093f94efff172e38a50 assets\ntr\models\item\transmissite_shears.json
+d045d136db019d6e17b00c239ce0864de6be4ef1 assets\ntr\models\item\transmissite_stick.json
+b96fb8115e8ddf43a8eaabea4ead87556bc041f5 assets\ntr\models\item\transmissite_gem.json

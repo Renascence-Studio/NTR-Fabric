@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ntr",
+  "version": "${version}",
+  "name": "Nether Transition Remains",
+  "description": "",
+  "authors": [
+    "RenascenceStudio",
+    "Chemiofitor",
+    "NaiveRanger",
+    "GQ2529",
+    "Craft_Ziyang"
+  ],
+  "contact": {
+    "repo": "https://github.com/Renascence-Studio/NTR-Fabric"
+  },
+  "license": "MIT",
+  "icon": "assets/ntr/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "renascence.studio.ntr.client.NetherTransitionRemainsClient"
+    ],
+    "main": [
+      "renascence.studio.ntr.NetherTransitionRemains"
+    ],
+    "fabric-datagen": [
+      "renascence.studio.ntr.data.NTRDataGen"
+    ]
+  },
+  "mixins": [
+    "ntr.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14",
+    "fabric": "*",
+    "minecraft": ">=1.20"
+  }
+}
